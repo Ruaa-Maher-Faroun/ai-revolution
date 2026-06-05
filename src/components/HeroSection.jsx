@@ -23,6 +23,7 @@ const HeroSection = () => {
               {images.map((img, i) => (
                 <img className="avatar" alt={`User ${i}`}
                   src={img}
+                  key={i}
                 />
               ))
               }

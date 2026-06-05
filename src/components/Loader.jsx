@@ -2,8 +2,10 @@ import React from 'react'
 
 const Loader = () => {
   return (
-    <section className='app-container'>
-      <div className='size-50 border-8 border-slate-400 border-t-primary animate'></div>
+    <section className='h-screen app-container flex items-center justify-center'>
+      <div className='rounded-full size-50 border-20
+       border-slate-200 border-t-primary animate-spin
+       '></div>
     </section>
   )
 }

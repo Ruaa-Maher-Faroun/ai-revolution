@@ -67,7 +67,7 @@ const AITypes = () => {
               <div className='flex items-center gap-x-2 mt-4'>
 
                 {card.tags.map((tag,i) => (
-                  <span
+                  <span key={i}
                     className={`ai-type-card-tag bg-${tag.color}/10 text-${tag.color}`}>{tag.text}</span>
                 ))}
               </div>
