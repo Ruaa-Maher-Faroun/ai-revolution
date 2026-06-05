@@ -1,5 +1,3 @@
-import React from 'react'
-import { div } from 'three/tsl';
 const contactDetails = [
   {
     title: "Phone",
