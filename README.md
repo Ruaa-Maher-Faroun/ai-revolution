@@ -13,7 +13,7 @@ A responsive landing page built with React and Tailwind CSS, following along wit
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-revolution.git
+git clone https://github.com/Ruaa-Maher-Faroun/ai-revolution.git
 cd ai-revolution
 
 # Install dependencies
