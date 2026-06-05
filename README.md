@@ -2,7 +2,7 @@
 
 A responsive landing page built with React and Tailwind CSS, following along with a YouTube tutorial.
 
-🔗 **Live Demo**: [your-deployed-link-here]
+🔗 **Live Demo**:(https://ai-revolution-landingpage.netlify.app/)
 
 ## Tech Stack
 
